@@ -1,9 +1,9 @@
-name: ${name}
+name: ${pluginName}
 main: com.aleksey.castlegates.CastleGates
 version: ${version}
 author: Aleksey-Terzi
-description: 'Drawable gates and bridges'
-api-version: 1.17
+description: ${description}
+api-version: ${api_version}
 softdepend: [NameLayer, Citadel, Bastion, JukeAlert]
 commands:
     cg:
